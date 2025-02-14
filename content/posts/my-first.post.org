@@ -11,3 +11,45 @@ draft: false
 #+end_quote
 
 咁以後,就睇下點啦,各位。
+#+AUTHOR: test
+#+TITLE: Love
+
+* Love
+
+** What is Love?
+
+** How Love is manifested?
+
+* Sex
+
+** Sex and gender
+
+** Polarity of Sex
+
+*** Bipolar or multipolar?
+
+* Relationshp
+
+* Is narcissism a **disorder** ?
+
+** What's wrong with me?
+
+*** Me?
+
+*** I?
+
+* between vs among
+
+* different ways
+
+* Different types of relationship
+#+begin_quote
+this is some quote from people
+#+end_quote
+
+#+begin_src
+  some source from other people
+
+#+end_src
+
+/To be continued.../
