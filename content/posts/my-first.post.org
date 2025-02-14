@@ -6,6 +6,10 @@ draft: false
 #+TITLE: My first post
 #+AUTHOR: 的士佬
 
+[[/images/beastie.png][image]]
+
+看看這裏行不行,其實我也不知道。若然是可行,那就最好,否則又是一撥走程序,遞申請書,之類之類的繁文縟節,煩死人了。能不能就省心點,讓大伙好好休息休息,就不行嗎?
+
 #+begin_quote
 子曰:學而時習之,不亦happy 乎?
 #+end_quote
