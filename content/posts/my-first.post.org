@@ -1,0 +1,13 @@
+---
+title: "My First.post"
+date: 2025-02-14T12:26:02+08:00
+draft: false
+---
+#+TITLE: My first post
+#+AUTHOR: 的士佬
+
+#+begin_quote
+子曰:學而時習之,不亦happy 乎?
+#+end_quote
+
+咁以後,就睇下點啦,各位。
