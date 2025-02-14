@@ -5,6 +5,7 @@ draft: false
 ---
 #+TITLE: My first post
 #+AUTHOR: 的士佬
+#+STARTUP: align
 
 #+CAPTION: Image
 #+NAME: A little naughty daemon
@@ -27,8 +28,8 @@ draft: false
 ** How Love is manifested?
 
 * Sex
-
-** Sex and gender
+   *bold* and not bold _underline_ no underline 
+* Sex and gender
 
 ** Polarity of Sex
 
@@ -57,5 +58,12 @@ this is some quote from people
   some source from other people
 
 #+end_src
+
+
+| 名字 | 電話 | 年齡 |
+|------+------+------|
+| 張三 |  123 |   12 |
+| 李四 |  324 |   12 |
+|      |      |      |
 
 /To be continued.../
