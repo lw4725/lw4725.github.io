@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '的士佬 '
 theme = 'ananke'
+DefaultContentLanguage = 'zh'
+description = '走過的路,道聽途說'
+
+# [params]
+# text_color = 'white'
+# post_content_classes = "white bg-black"
